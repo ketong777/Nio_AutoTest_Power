@@ -1,0 +1,10 @@
+COM_PORT_DAICE = "com18"
+COM_PORT_DUISHOU = "com24"
+COM_PORT_SOC = "com24"
+COM_PORT_MCU = "com6"
+COM_USERNAME = "root"
+COM_PASSWORD = "qo}g{F!rzXcp2jUQ6T%7"
+MCU_PASSWORD = "joynext_123"
+COMMOND_ACC_ON = "accon"
+COMMOND_ACC_OFF = "accoff"
+TEST_CASE_PATH = r'C:\Users\liu_k1\PycharmProjects\v2xpower\utils\nio脚本编写进度同.xlsx'
